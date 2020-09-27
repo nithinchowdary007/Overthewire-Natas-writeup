@@ -1,0 +1,13 @@
+                   URL                       USERNAME              PASSWORD                                 AVAILABLE KEY                                              HINT TO USED
+http://natas0.natas.labs.overthewire.org      natas0                natas0                         gtVrDuiDfck831PqWsLEZy5gyDz1clto        
+http://natas1.natas.labs.overthewire.org      natas1     gtVrDuiDfck831PqWsLEZy5gyDz1clto          ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi                                 inspect the website
+http://natas2.natas.labs.overthewire.org      natas2     ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi          sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14                                     URL/files/
+http://natas3.natas.labs.overthewire.org      natas3     sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14          Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ                                   URL/robots.txt
+http://natas4.natas.labs.overthewire.org      natas4     Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ          iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq                          Use burpsueit, change referer to neta5
+http://natas5.natas.labs.overthewire.org      natas5     iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq          aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1                        Use burpsueit, change loggedin cookie to 1
+http://natas6.natas.labs.overthewire.org      natas6     aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1          7z3hEENjQtflzgnT29q7wAvMNfZdh0i9                      Inspect the header file in sourcecode for secret
+http://natas7.natas.labs.overthewire.org      natas7     7z3hEENjQtflzgnT29q7wAvMNfZdh0i9          DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe                            add the given path in hint to URL
+http://natas8.natas.labs.overthewire.org      natas8     DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe          W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl                    take php code line from open source and use decoder
+http://natas9.natas.labs.overthewire.org      natas9     W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl          nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu                 ;cat /etc/natas_webpass/natas10 (; terminaes grep command)
+http://natas10.natas.labs.overthewire.org     natas10    nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu          U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK               .* /etc/natas_webpass/natas11 (.* searches evething in that file)
+http://natas11.natas.labs.overthewire.org     natas11    U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK          
